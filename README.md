@@ -1,5 +1,5 @@
 # ChessEngine
-Chess engine developed using java
+Chess engine developed using java.
 The implemented Chess engine in java uses the Alpha-beta pruning to cut the search tree. 
 
 INSTALLATION
